@@ -1,0 +1,46 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3943336099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3922256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e2222b97d78",
+      "backup_ads_intertitial":"518cd33332c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"2",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107233779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Khalid Basalamah",
+      "title": "Paksakan Ibadah",
+      "image": "https://carapandang.com/assets/images/news/carapandang-32306.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "lyrics": "<p>aaaaaaa</p>" }
+  ]
+}
